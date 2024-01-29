@@ -1,2 +1,1 @@
-# SmokECS
-A ECS library for the Smok Game Engine
+ECS handles creating Entities, Components, and Systems
